@@ -1,0 +1,1 @@
+{'data_root': 'F:\\Dendritic-computing-master\\PyTorch\\data', 'data_name': 'svhn', 'batch_size': 128, 'num_workers': 4, 'num_epochs': 100, 'eval': False, 'model_name': 'ann', 'pretrained_path': '', 'save_root': 'results/test2', 'loss': 'cross_entropy', 'scheduler': 'multi_step', 'optimizer': 'sgd', 'lr': 0.05, 'weight_decay': 0.0005, 'save_path': 'results/test2\\ann\\svhn'}
